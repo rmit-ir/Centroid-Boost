@@ -1,0 +1,3 @@
+[submodule "pisa-multi-query"]
+	path = pisa-multi-query
+	url = http://github.com/JMMackenzie/pisa-multi-query
